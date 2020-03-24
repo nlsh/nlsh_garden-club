@@ -1,0 +1,5 @@
+/.settings
+/output
+.buildpath
+.project
+.phpunit.result.cache
