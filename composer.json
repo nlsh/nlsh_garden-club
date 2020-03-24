@@ -1,0 +1,15 @@
+{
+	"name" : "nlsh/gardenclub",
+	"description" : "Hilfsklasse zur Erzeugung aller Ausgabedaten -> nlsh_kleingartenverwaltung-bundle",
+	"type" : "class",
+	"license" : "LGPL-3.0+",
+	"support" : {
+		"email" : "github@nilsheinold.de"
+	},
+	"autoload" : {
+		"classmap" : [
+			"src/classes"
+		]
+	},
+	"minimum-stability" : "stable"
+}
